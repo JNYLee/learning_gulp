@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JNYLee/learning_gulp/issues"
   },
-  "homepage": "https://github.com/JNYLee/learning_gulp#readme"
+  "homepage": "https://github.com/JNYLee/learning_gulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
